@@ -322,3 +322,16 @@ plt.legend(['Train'], loc='upper right')
 plt.show()
 
 
+
+
+#https://aws.amazon.com/blogs/machine-learning/build-a-social-media-dashboard-using-machine-learning-and-bi-services/
+
+#https://aws.amazon.com/blogs/machine-learning/detect-sentiment-from-customer-reviews-using-amazon-comprehend/
+
+#https://unamo.com/en/social-media-monitoring
+
+
+
+
+
+
