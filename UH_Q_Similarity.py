@@ -330,8 +330,13 @@ plt.show()
 
 #https://unamo.com/en/social-media-monitoring
 
+#https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html
 
+#https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
 
+#example : https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn/11421
 
+#https://gallery.azure.ai/Experiment/Text-Classification-Step-2-of-5-text-preprocessing-2
 
+#https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/
 
