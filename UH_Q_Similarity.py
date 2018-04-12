@@ -345,3 +345,5 @@ plt.show()
 
 #https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/
 
+#http://www.nltk.org/book/ch03.html
+
