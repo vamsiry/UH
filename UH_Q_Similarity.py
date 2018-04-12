@@ -347,3 +347,5 @@ plt.show()
 
 #http://www.nltk.org/book/ch03.html
 
+#NER Recorginition : https://blog.paralleldots.com/product/applications-named-entity-recognition-api/
+
