@@ -97,6 +97,11 @@ print(new_df["isduplicate"])
 #%%
 
 ''' Pre process and convert texts to a list of words '''
+#Normalization
+#---------------
+#Normalization generally refers to a series of related tasks meant to put all text on a level playing field: converting 
+#all text to the same case (upper or lower), removing punctuation, expanding contractions, converting numbers to their
+#word equivalents, and so on. Normalization puts all words on equal footing, and allows processing to proceed uniformly
 
 def text_to_word_list(text):  
     text = str(text)
