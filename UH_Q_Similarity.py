@@ -349,3 +349,7 @@ plt.show()
 
 #NER Recorginition : https://blog.paralleldots.com/product/applications-named-entity-recognition-api/
 
+#https://www.quora.com/in/How-does-named-entity-recognition-work
+
+#https://en.wikipedia.org/wiki/Named-entity_recognition
+
